@@ -3,7 +3,8 @@ package main
 import (
 	"log"
 
-	"github.com/RNerd12/coup_api_server/internal/api"
+	"coup_api_server/internal/api"
+
 	"github.com/gofiber/fiber/v2"
 )
 

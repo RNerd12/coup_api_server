@@ -1,4 +1,4 @@
-module github.com/RNerd12/coup_api_server
+module coup_api_server
 
 go 1.25.1
 
