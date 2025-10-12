@@ -6,5 +6,5 @@ import (
 )
 
 func generateGameID() string {
-	return fmt.Sprintf("coup-%d", rand.Intn(1000000))
+	return fmt.Sprintf("coup-%d", rand.Intn(1000))
 }
